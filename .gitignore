@@ -1,0 +1,10 @@
+# environments and caches
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.claude/
+
+# data and task brief are not published (see README: "Data")
+data_bank_marketing_campaign.csv
+Bank Marketing Campaign.docx
